@@ -4,6 +4,9 @@ Projeto do CodeRace2026
 Link dos slides:
 https://canva.link/u4r6gjos1w98ny9
 
+Link do Vídeo (Pitch):
+https://youtube.com/shorts/rr5GuyLR4AM?si=RTfTu1qawtb4xlag
+
 Funções dos integrantes:
 
 1-Marcos- Scrum Master e Programador principal
