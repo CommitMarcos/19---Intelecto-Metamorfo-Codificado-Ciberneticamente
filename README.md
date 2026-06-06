@@ -1,4 +1,4 @@
-# 19---Intelecto-Metamorfo-Codificado-Ciberneticamente
+# 19---Intelecto-Metamorfo-Codificado-Cibernéticamente
 Projeto do CodeRace2026
 
 Link dos slides:
