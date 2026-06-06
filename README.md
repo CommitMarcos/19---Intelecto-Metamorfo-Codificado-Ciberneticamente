@@ -9,11 +9,11 @@ https://youtube.com/shorts/rr5GuyLR4AM?si=RTfTu1qawtb4xlag
 
 Funções dos integrantes:
 
-1-Marcos- Scrum Master e Programador principal
-2-Celso- Programador auxiliar
-3-Eduarda- Product Owner e analista de negócios
-4-Kaueli- Designer
-5-Diuliana- Designer 
+1-Marcos Gonçalves- Scrum Master e Programador principal
+2-Celso Santo - Programador auxiliar e designer auxiliar
+3-Eduarda Leal- Product Owner e analista de negócios
+4-Kaueli Antunes- Designer e editor
+5-Diuliana Oliveira- Designer e videomaker
 
 Problemas
 
